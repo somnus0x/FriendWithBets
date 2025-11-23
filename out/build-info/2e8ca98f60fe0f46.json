@@ -1,0 +1,1 @@
+{"id":"2e8ca98f60fe0f46","source_id_to_path":{"0":"contracts/FriendWithBets.sol","1":"contracts/interfaces/IERC20.sol","2":"contracts/interfaces/IResolver.sol","3":"contracts/modules/X402Resolver.sol","4":"script/DeployFWB_Celo.s.sol"},"language":"Solidity"}
